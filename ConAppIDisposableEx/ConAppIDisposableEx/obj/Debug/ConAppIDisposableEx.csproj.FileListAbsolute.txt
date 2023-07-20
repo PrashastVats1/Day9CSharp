@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day9\ConAppIDisposableEx\ConAppIDisposableEx\bin\Debug\ConAppIDisposableEx.exe.config
+D:\Mphasis\Live Session\Day9\ConAppIDisposableEx\ConAppIDisposableEx\bin\Debug\ConAppIDisposableEx.exe
+D:\Mphasis\Live Session\Day9\ConAppIDisposableEx\ConAppIDisposableEx\bin\Debug\ConAppIDisposableEx.pdb
+D:\Mphasis\Live Session\Day9\ConAppIDisposableEx\ConAppIDisposableEx\obj\Debug\ConAppIDisposableEx.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day9\ConAppIDisposableEx\ConAppIDisposableEx\obj\Debug\ConAppIDisposableEx.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day9\ConAppIDisposableEx\ConAppIDisposableEx\obj\Debug\ConAppIDisposableEx.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day9\ConAppIDisposableEx\ConAppIDisposableEx\obj\Debug\ConAppIDisposableEx.exe
+D:\Mphasis\Live Session\Day9\ConAppIDisposableEx\ConAppIDisposableEx\obj\Debug\ConAppIDisposableEx.pdb

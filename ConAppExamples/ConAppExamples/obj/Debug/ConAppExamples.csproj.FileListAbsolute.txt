@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day9\ConAppExamples\ConAppExamples\bin\Debug\ConAppExamples.exe.config
+D:\Mphasis\Live Session\Day9\ConAppExamples\ConAppExamples\bin\Debug\ConAppExamples.exe
+D:\Mphasis\Live Session\Day9\ConAppExamples\ConAppExamples\bin\Debug\ConAppExamples.pdb
+D:\Mphasis\Live Session\Day9\ConAppExamples\ConAppExamples\obj\Debug\ConAppExamples.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day9\ConAppExamples\ConAppExamples\obj\Debug\ConAppExamples.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day9\ConAppExamples\ConAppExamples\obj\Debug\ConAppExamples.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day9\ConAppExamples\ConAppExamples\obj\Debug\ConAppExamples.exe
+D:\Mphasis\Live Session\Day9\ConAppExamples\ConAppExamples\obj\Debug\ConAppExamples.pdb
